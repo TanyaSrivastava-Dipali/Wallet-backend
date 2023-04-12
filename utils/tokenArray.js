@@ -1,0 +1,3 @@
+const tokenArray = ["0xD0e7F2efEa724e2a0Fc1d592a7Fb5B6243918497", "0x9EB9510F15c8A43Db179B32b8EDb443411ccCD1d", "0xFca8b74A353521597a5aAb14259d7E3f9b6148dE"];
+
+export default tokenArray;
